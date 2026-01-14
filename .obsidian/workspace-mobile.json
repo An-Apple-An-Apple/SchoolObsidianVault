@@ -1,0 +1,253 @@
+{
+  "main": {
+    "id": "965585f8a97106b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9f8386675dcbd02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1e4d8f3bc58416b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/S1/S1.2 Nuclear Atom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "S1.2 Nuclear Atom"
+            }
+          },
+          {
+            "id": "cfe40b50866166c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Techniques"
+            }
+          },
+          {
+            "id": "97372eed57a26f8f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "08ece4b01de8679d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acdac81580485f48",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "586db4a5b018e3ce",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "abe85b95d8795c05",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "73bfd97b9c856af6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "d118f18228f462e8",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "651104a46acb66d5",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8deb1e550256ff96",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4ae877d612f6be5a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Global Poltics/GPC 2/Research/Breaking the Ice. Emerging Legal Issues in Arctic Sovereignty.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "03266cad71c50479",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Global Poltics/Theories/Liberalism.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "37428c3c20318848",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Global Poltics/Theories/Liberalism.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "a25789eaa8b73c2c",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "97372eed57a26f8f",
+  "lastOpenFiles": [
+    "English/Assessment/IO/parts_of_the_io.md",
+    "English/Assessment/IO/planner.md",
+    "Global Poltics/GPC 2/Research/Breaking the Ice. Emerging Legal Issues in Arctic Sovereignty.md",
+    "Global Poltics/GPC 2/Research/Contested Sovereignty in a Changing Arctic.md",
+    "Global Poltics/GPC 2/Research/Google Scholar Query 1.md",
+    "English/Techniques.md",
+    "English/Assessment/IO/Untitled.md",
+    "English/Vocabulary.md",
+    "Chemistry/R3/R3.1 Proton transfer reaction.md",
+    "English/Portfolio/Ray Bradbury BOW/10. Skeleton/Practice - Questions.md",
+    "English/Portfolio/Ray Bradbury BOW/2. The Murderer/The Murderer.pdf",
+    "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc./Practice — Questions.md",
+    "English/Portfolio/Ray Bradbury BOW/The-Murderer.pdf",
+    "English/Portfolio/Ray Bradbury BOW/Practice — The Murderer (1953).md",
+    "English/General.md",
+    "English/Untitled",
+    "English/1984/Part 3/Summary and Quotes.md",
+    "English/1984/Part 2/Summary and Quotes.md",
+    "English/1984/Part 1/Summary and Quotes.md",
+    "English/Notes.md",
+    "Global Poltics/Theories/Liberalism.md",
+    "Global Poltics/Inbox.md",
+    "Global Poltics/Human Rights",
+    "Global Poltics/Key concepts",
+    "English/Theories.md",
+    "Chemistry/R1/R1. Enthalpy Change..md",
+    "Chemistry/S1/S1.2 Nuclear Atom.md",
+    "Chemistry/R1",
+    "Chemistry/S1/SI Unit Conversion Work Sheet.md",
+    "Chemistry/S1/S1.1 Intro, Particulate matter, Model.md",
+    "Chemistry/S1",
+    "English/1984.md",
+    "Global Poltics/Theories/Theories.md",
+    "ToK"
+  ]
+}

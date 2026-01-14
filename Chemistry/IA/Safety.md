@@ -1,0 +1,1 @@
+Volumetric flask dilution. Water added then acid. Ok because acid is not concentrated. 

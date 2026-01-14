@@ -1,0 +1,11 @@
+---
+Date: 2025-11-26
+---
+- Andre Gunder Frank (born 1923)
+- Jewish
+- Core -> Periphery
+- Developed core states keep periphery states underdeveloped
+- Unequal dependence
+- The development of southern states is a counter argument
+- IMF structural adjustment program
+	- Ghana -> pays more debt (4x) than their institutions

@@ -1,0 +1,102 @@
+# Literary
+
+**Universal**
+- Diction
+- Metaphor
+	- double entrendre
+- Similie
+- Irony
+	- Verbal Irony
+	- Situation Irony
+	- Dramatic Irony
+- Imagery
+	- appeal to the five senses (sight, hearing, smell, taste, touch)
+- Tone
+- Juxtaposition
+- Antithesis
+	- parallel grammatical structure with opposing ideas
+- oxymoron 
+	- contradicting words right beside each other
+- Foreshadowing
+	- an abstract technique
+- symbolism
+	- indirect
+- *in media res*
+	- starts in the middle of the action
+
+- *ad hominem*
+	- when one attacks the person in a discussion instead of their position
+- erotesis
+	- when a question is asked in a confident manner that invites a negative answer
+---
+**Useful**
+- Euphemism 
+	- Substitution of a word 
+	- Less harsh 
+	- Facilitate sensitive conversations
+- Chiasmus
+	- the order of the second phrase is flipped the first 
+- Epizeuxis
+	- repetition of words (through, through, through)
+- Anaphora
+	- repetition of a phrase at the start of a sentence
+- Epiphora
+	- repetition of a phrase at the end of a sentence
+- Polysyndeton
+	- repetitino of conjunctions 
+	- emphizes the words a bit more but still emzphises excessive nature
+- Asyndeton
+	- repetition without conjunction
+	- emphizes excessive nature
+	- takes away the identity of objects
+- Hypophora  
+	- rhetorical question
+- Auxesis
+	- accumulation of tension
+- parataxis
+	- Listing in short succession
+- hyperbole
+- anachronism
+	- using the wrong time period
+---
+**Other**
+- Anachronism
+	- something that is known to be in the future in the past
+- Aposiopesis
+	- rhetorical device
+	- deliberately breaks off and leaves a statement unfinished
+	- effect:
+		- convey strong emotions (anger, fear, hesitation)
+		- dramatic tension and unspeakable consequences
+		- invite imagination
+		- enhance realism
+- Tapinosis
+	- name calling 
+	- rhetoric techniques
+- Aphorism
+    - Concise memorable statement
+    - Express a universal truth
+    - Key characteristics
+        - Complex idea in a few words
+        - Humor, imagery, metaphor
+    - “Fair is foul, foul us fair”
+        - This line sets the tone of the entire play by introducing the theme of apparance vs reality.
+        - It warns the audience that mor order is inverted and the witches equivocate, which highlights what seems good may actually be evil
+- Synesthesia
+	- language for one sense for another
+	- characteristics
+		- immersive imagery
+	- ie. The [silence] was [heavy] 
+- Lexical Cluster
+	- similar meaning words together
+- Zeugma
+	- Single word (adj/verb)
+	- Governs two+ words or phase
+	- In both literary and figurative sense
+	- Creates sematic contrast
+	- Add wit, irony, or thematic depth
+	- `In “The Long Rain”, the storm drowned their hope and their voices, silencing both dreams and sound beneath endless sheets of water.`
+	- “drowned” applies literally to voices and figuratively to hope, creating a powerful description of despair and struggle that reflects Bradbury’s theme of  how nature crushes human resilience. 
+# Grammatical
+The chilling escalation becomes apparent when the text states: "Withers, however, was already an UNPERSON. He did not exist: he had never existed" (Orwell). The capitalization of "UNPERSON" and the grammatical progression from present tense ("did not exist") to past perfect ("had never existed") illustrates how the euphemism doesn't describe reality—it creates a new reality.
+

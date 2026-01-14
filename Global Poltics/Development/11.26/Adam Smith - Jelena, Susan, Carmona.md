@@ -1,0 +1,5 @@
+- Scottish Enlightment
+- Capitalism and free market
+- Laissez Faire
+	- free market
+- Neoliberalism

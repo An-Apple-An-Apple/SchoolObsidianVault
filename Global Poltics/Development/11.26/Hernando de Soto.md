@@ -1,0 +1,3 @@
+- peru
+- liberal democracy
+- registered land to millions

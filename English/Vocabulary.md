@@ -1,0 +1,10 @@
+- Pulchritudinous (adj)
+	- Beautiful
+- Simulacrum (n)
+	- imitation without authenticity
+	- In "The October Game,", the cheerful Halloween decorations serve as a chilling [simulacrum] of domestic bliss, masking the underlying horror and emotional decay within the family. 
+- Perspicacious (adj.)
+	- knowing things
+	- Bradbury present's Leonard Mead as a perspicacious figure whose awareness of society's passive conformity underscores his quiet resistance to the oppressive power of technology.
+- solipsism
+	- selfish

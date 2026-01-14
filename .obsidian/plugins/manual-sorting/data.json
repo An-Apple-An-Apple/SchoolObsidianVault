@@ -1,0 +1,402 @@
+{
+  "customFileOrder": {
+    "/": [
+      "Emailnator.md",
+      "Oakridge MUN",
+      "Biology",
+      "ToK",
+      "Templates",
+      "Global Poltics",
+      "English",
+      "Chemistry"
+    ],
+    "Biology": [
+      "Biology/A1.2 Nucleic Acid.md",
+      "Biology/A1.1 Water.md"
+    ],
+    "Chemistry": [
+      "Chemistry/IA",
+      "Chemistry/Notes.md",
+      "Chemistry/S1",
+      "Chemistry/R1",
+      "Chemistry/R2",
+      "Chemistry/R3"
+    ],
+    "Chemistry/IA": [
+      "Chemistry/IA/Data.md",
+      "Chemistry/IA/Safety.md",
+      "Chemistry/IA/Notes.md",
+      "Chemistry/IA/Procedure.md"
+    ],
+    "Chemistry/R1": [
+      "Chemistry/R1/Energy Profile.png",
+      "Chemistry/R1/Gibbs Energy Graph.png",
+      "Chemistry/R1/R1.1 Enthalpy Change..md",
+      "Chemistry/R1/R1.2 Energy Cycle.md",
+      "Chemistry/R1/R1.3 Energy & Fuel.md",
+      "Chemistry/R1/R1.4 Entropy and Spontaneity.md"
+    ],
+    "Chemistry/R2": [
+      "Chemistry/R2/Energy Diagram with Catalyst.png",
+      "Chemistry/R2/MaxBolt Diagram shifting Temp.png",
+      "Chemistry/R2/MaxBolt Diagram with Catalyst.png",
+      "Chemistry/R2/Energy Profile with Parts.png",
+      "Chemistry/R2/Multistep Energy Profile with step.png",
+      "Chemistry/R2/Funnel - Rate Limiting Step.png",
+      "Chemistry/R2/2 Type Graphs vs Order.png",
+      "Chemistry/R2/K Values.png",
+      "Chemistry/R2/R2.1 EMPTY.md",
+      "Chemistry/R2/R2.2 Rates (Kinetics).md",
+      "Chemistry/R2/R2.3 Equilibrium Equations.md"
+    ],
+    "Chemistry/R3": [
+      "Chemistry/R3/W Acid with S Base Titration.jpg",
+      "Chemistry/R3/W Base with S Acid Titration.png",
+      "Chemistry/R3/W Base with W Acid Titration.png",
+      "Chemistry/R3/R3.1 Proton transfer reaction.md",
+      "Chemistry/R3/R3.2 Electron transfer reaction.md",
+      "Chemistry/R3/R3.3 Electron sharing reaction.md",
+      "Chemistry/R3/R3.4 Electron-pair sharing reaction.md"
+    ],
+    "Chemistry/S1": [
+      "Chemistry/S1/S1.1 Intro, Particulate matter, Model.md",
+      "Chemistry/S1/S1.2 Nuclear Atom.md",
+      "Chemistry/S1/SI Unit Conversion Work Sheet.md"
+    ],
+    "English": [
+      "English/Untitled.md",
+      "English/Vocabulary.md",
+      "English/Techniques.md",
+      "English/General.md",
+      "English/Seven Key Concepts Cambridge.pdf",
+      "English/Notes.md",
+      "English/Assessment",
+      "English/Assignments",
+      "English/Portfolio",
+      "English/Theories.md"
+    ],
+    "English/Assessment": [
+      "English/Assessment/Notes – Full IO.md",
+      "English/Assessment/IO",
+      "English/Assessment/IO.md",
+      "English/Assessment/Paper 2.md",
+      "English/Assessment/Paper 1.md",
+      "English/Assessment/Higher Level Essay.md"
+    ],
+    "English/Assessment/IO": [
+      "English/Assessment/IO/planner.md",
+      "English/Assessment/IO/structure.md",
+      "English/Assessment/IO/steps.md",
+      "English/Assessment/IO/steps conference.md",
+      "English/Assessment/IO/exemplar.md",
+      "English/Assessment/IO/mark_scheme.md"
+    ],
+    "English/Assignments": [
+      "English/Assignments/Mini Paper 2.md",
+      "English/Assignments/Second Mini IO.md",
+      "English/Assignments/Mini Paragraph Assignment.md"
+    ],
+    "English/Portfolio": [
+      "English/Portfolio/1984",
+      "English/Portfolio/Ray Bradbury BOW",
+      "English/Portfolio/Speeches - Greta Thunberg",
+      "English/Portfolio/A Doll's House"
+    ],
+    "English/Portfolio/1984": [
+      "English/Portfolio/1984/Part 3",
+      "English/Portfolio/1984/Part 2",
+      "English/Portfolio/1984/Part 1"
+    ],
+    "English/Portfolio/1984/Part 1": [
+      "English/Portfolio/1984/Part 1/Notes.md",
+      "English/Portfolio/1984/Part 1/Themes and Ideas.md",
+      "English/Portfolio/1984/Part 1/Summary and Quotes.md"
+    ],
+    "English/Portfolio/1984/Part 2": [
+      "English/Portfolio/1984/Part 2/Summary and Quotes.md"
+    ],
+    "English/Portfolio/1984/Part 3": [
+      "English/Portfolio/1984/Part 3/Summary and Quotes.md"
+    ],
+    "English/Portfolio/A Doll's House": [
+      "English/Portfolio/A Doll's House/Feminism.md",
+      "English/Portfolio/A Doll's House/Victorian Letter",
+      "English/Portfolio/A Doll's House/Images",
+      "English/Portfolio/A Doll's House/Background.md",
+      "English/Portfolio/A Doll's House/A Doll's House"
+    ],
+    "English/Portfolio/A Doll's House/A Doll's House": [
+      "English/Portfolio/A Doll's House/A Doll's House/Act 1.md",
+      "English/Portfolio/A Doll's House/A Doll's House/Act 2.md"
+    ],
+    "English/Portfolio/A Doll's House/Images": [
+      "English/Portfolio/A Doll's House/Images/Notes.md"
+    ],
+    "English/Portfolio/A Doll's House/Victorian Letter": [
+      "English/Portfolio/A Doll's House/Victorian Letter/Letter to a Victorian Wife.pdf",
+      "English/Portfolio/A Doll's House/Victorian Letter/Notes.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW": [
+      "English/Portfolio/Ray Bradbury BOW/Note.md",
+      "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc.",
+      "English/Portfolio/Ray Bradbury BOW/2. The Murderer",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game",
+      "English/Portfolio/Ray Bradbury BOW/4. Small Assassin",
+      "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian",
+      "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder",
+      "English/Portfolio/Ray Bradbury BOW/7. The Vacation",
+      "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain",
+      "English/Portfolio/Ray Bradbury BOW/9. The Long Rain",
+      "English/Portfolio/Ray Bradbury BOW/10. Skeleton (1945)"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc.": [
+      "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc./Marionette Inc..pdf",
+      "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc./Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/2. The Murderer": [
+      "English/Portfolio/Ray Bradbury BOW/2. The Murderer/The Murderer.pdf",
+      "English/Portfolio/Ray Bradbury BOW/2. The Murderer/Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game": [
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/The October Game.pdf",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Activity — Soundscape.md",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Practice — Analysis.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images": [
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/characterization.png",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/diction.png",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/foreshadowing.png",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/imagery and hyperbole.png",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/simile and metaphor.png",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/The October Game.pdf",
+      "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/imagery and hyperbole 2.png"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/4. Small Assassin": [
+      "English/Portfolio/Ray Bradbury BOW/4. Small Assassin/Notes.md",
+      "English/Portfolio/Ray Bradbury BOW/4. Small Assassin/The-Small-Assassin.pdf",
+      "English/Portfolio/Ray Bradbury BOW/4. Small Assassin/Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian": [
+      "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/The Pedestrian.pdf",
+      "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/Practice - Qs.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder": [
+      "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/A Sound of Thunder.pdf",
+      "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Notes.md",
+      "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/7. The Vacation": [
+      "English/Portfolio/Ray Bradbury BOW/7. The Vacation/The Vacation.pdf",
+      "English/Portfolio/Ray Bradbury BOW/7. The Vacation/Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain": [
+      "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/There Will Come Soft Rains.pdf",
+      "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/Practice — Questions.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/9. The Long Rain": [
+      "English/Portfolio/Ray Bradbury BOW/9. The Long Rain/The Long Rain.pdf",
+      "English/Portfolio/Ray Bradbury BOW/9. The Long Rain/Activity - Making Qs.md",
+      "English/Portfolio/Ray Bradbury BOW/9. The Long Rain/Activity — Sound.md"
+    ],
+    "English/Portfolio/Ray Bradbury BOW/10. Skeleton (1945)": [
+      "English/Portfolio/Ray Bradbury BOW/10. Skeleton (1945)/Skeleton.pdf",
+      "English/Portfolio/Ray Bradbury BOW/10. Skeleton (1945)/Practice - Questions.md"
+    ],
+    "English/Portfolio/Speeches - Greta Thunberg": [
+      "English/Portfolio/Speeches - Greta Thunberg/Speech 8 – Munahid, Yuvraj, Daniel.md",
+      "English/Portfolio/Speeches - Greta Thunberg/Speech 7 – Sofia, Shayla, Seb.md",
+      "English/Portfolio/Speeches - Greta Thunberg/Greta Thunberg.md",
+      "English/Portfolio/Speeches - Greta Thunberg/Speech 5 – Chris, Nadar, Gurnoor (No Title).md",
+      "English/Portfolio/Speeches - Greta Thunberg/Speech 6 – Susan, Hazel, Carmona.md"
+    ],
+    "Global Poltics": [
+      "Global Poltics/News of the Week",
+      "Global Poltics/Thesis.md",
+      "Global Poltics/Case Studies.md",
+      "Global Poltics/Paper 2.md",
+      "Global Poltics/Inbox.md",
+      "Global Poltics/Actors",
+      "Global Poltics/Theories",
+      "Global Poltics/Key Concepts",
+      "Global Poltics/More Concepts",
+      "Global Poltics/HL Topics",
+      "Global Poltics/Human Rights",
+      "Global Poltics/Development",
+      "Global Poltics/GPC 2",
+      "Global Poltics/Level of Analysis.md",
+      "Global Poltics/Recommendations.md"
+    ],
+    "Global Poltics/Actors": [
+      "Global Poltics/Actors/Great Powers.md",
+      "Global Poltics/Actors/States.md",
+      "Global Poltics/Actors/NGOs.md",
+      "Global Poltics/Actors/IGOs.md"
+    ],
+    "Global Poltics/Development": [
+      "Global Poltics/Development/Development.md",
+      "Global Poltics/Development/11.21",
+      "Global Poltics/Development/11.24",
+      "Global Poltics/Development/11.26",
+      "Global Poltics/Development/12.01",
+      "Global Poltics/Development/12.02",
+      "Global Poltics/Development/11.03",
+      "Global Poltics/Development/12.5"
+    ],
+    "Global Poltics/Development/11.03": [
+      "Global Poltics/Development/11.03/DTM.md"
+    ],
+    "Global Poltics/Development/11.21": [
+      "Global Poltics/Development/11.21/Notes - Contributing Factors.md"
+    ],
+    "Global Poltics/Development/11.24": [
+      "Global Poltics/Development/11.24/Practice - Theory (Karl Marx).md"
+    ],
+    "Global Poltics/Development/11.26": [
+      "Global Poltics/Development/11.26/Adam Smith - Jelena, Susan, Carmona.md",
+      "Global Poltics/Development/11.26/Hernando de Soto.md",
+      "Global Poltics/Development/11.26/Susan George – Sofia, Shayla, Hibah.md",
+      "Global Poltics/Development/11.26/Untitled.md",
+      "Global Poltics/Development/11.26/Dependency Theory - Gabe Sangat Daniel.md",
+      "Global Poltics/Development/11.26/Economic Structuralism - Yuvraj, Soban, Zihan.md",
+      "Global Poltics/Development/11.26/Poverty Trap - Seb, Chris, Nadar.md"
+    ],
+    "Global Poltics/Development/12.01": [
+      "Global Poltics/Development/12.01/Allport's Scale.md"
+    ],
+    "Global Poltics/Development/12.02": [
+      "Global Poltics/Development/12.02/Note - Core Periphery Gapminder.md"
+    ],
+    "Global Poltics/Development/12.5": [
+      "Global Poltics/Development/12.5/Note - HDI.md",
+      "Global Poltics/Development/12.5/Note - Fair Trade, Fairtrades.md"
+    ],
+    "Global Poltics/GPC 2": [
+      "Global Poltics/GPC 2/Note – GPC.md",
+      "Global Poltics/GPC 2/Planning.md",
+      "Global Poltics/GPC 2/Planning 2.md",
+      "Global Poltics/GPC 2/Planning 3.md",
+      "Global Poltics/GPC 2/Research"
+    ],
+    "Global Poltics/GPC 2/Research": [
+      "Global Poltics/GPC 2/Research/Others",
+      "Global Poltics/GPC 2/Research/Rising sea levels",
+      "Global Poltics/GPC 2/Research/Arctic and Politics",
+      "Global Poltics/GPC 2/Research/Westphalian Sovereignty"
+    ],
+    "Global Poltics/GPC 2/Research/Arctic and Politics": [
+      "Global Poltics/GPC 2/Research/Arctic and Politics/Breaking the Ice. Emerging Legal Issues in Arctic Sovereignty..md",
+      "Global Poltics/GPC 2/Research/Arctic and Politics/Contested Sovereignty in a Changing Arctic.md",
+      "Global Poltics/GPC 2/Research/Arctic and Politics/Introduction. Indigenous self-governance in the Arctic States.md",
+      "Global Poltics/GPC 2/Research/Arctic and Politics/Melting Empires..md",
+      "Global Poltics/GPC 2/Research/Arctic and Politics/The Implications of Ice Melt on Arctic Security.md",
+      "Global Poltics/GPC 2/Research/Arctic and Politics/Google Scholar Query 1.md"
+    ],
+    "Global Poltics/GPC 2/Research/Others": [],
+    "Global Poltics/GPC 2/Research/Rising sea levels": [
+      "Global Poltics/GPC 2/Research/Rising sea levels/The First Digital Nation.md",
+      "Global Poltics/GPC 2/Research/Rising sea levels/Navigating the Rising Tide - Transformational Adaptation for Resilient Atoll Nations.md",
+      "Global Poltics/GPC 2/Research/Rising sea levels/You're making this island disappear.md",
+      "Global Poltics/GPC 2/Research/Rising sea levels/Climate Change-induced Sea-Level Rise Direct Threat to Millions around World, Secretary-General Tells Security Council.md"
+    ],
+    "Global Poltics/GPC 2/Research/Westphalian Sovereignty": [
+      "Global Poltics/GPC 2/Research/Westphalian Sovereignty/Westphalian System.md"
+    ],
+    "Global Poltics/HL Topics": [
+      "Global Poltics/HL Topics/inequality.md",
+      "Global Poltics/HL Topics/borders.md"
+    ],
+    "Global Poltics/Human Rights": [
+      "Global Poltics/Human Rights/Class Notes",
+      "Global Poltics/Human Rights/CASE — UN vs NGOs.md"
+    ],
+    "Global Poltics/Human Rights/Class Notes": [
+      "Global Poltics/Human Rights/Class Notes/11.11",
+      "Global Poltics/Human Rights/Class Notes/11.12",
+      "Global Poltics/Human Rights/Class Notes/11.13",
+      "Global Poltics/Human Rights/Class Notes/11.19"
+    ],
+    "Global Poltics/Human Rights/Class Notes/11.11": [
+      "Global Poltics/Human Rights/Class Notes/11.11/Notes — HR Watch and Amnesty.md",
+      "Global Poltics/Human Rights/Class Notes/11.11/Activity — Western vs Non-Western.md"
+    ],
+    "Global Poltics/Human Rights/Class Notes/11.12": [
+      "Global Poltics/Human Rights/Class Notes/11.12/Notes — Sanctions.md"
+    ],
+    "Global Poltics/Human Rights/Class Notes/11.13": [
+      "Global Poltics/Human Rights/Class Notes/11.13/Notes — Hannah Arendt.md",
+      "Global Poltics/Human Rights/Class Notes/11.13/Activity — Human Rights Intervention.md"
+    ],
+    "Global Poltics/Human Rights/Class Notes/11.19": [
+      "Global Poltics/Human Rights/Class Notes/11.19/Notes — ICC.md",
+      "Global Poltics/Human Rights/Class Notes/11.19/Notes – ECHR.md"
+    ],
+    "Global Poltics/Key Concepts": [
+      "Global Poltics/Key Concepts/Power.md",
+      "Global Poltics/Key Concepts/Sovereignty.md",
+      "Global Poltics/Key Concepts/Interdependence.md",
+      "Global Poltics/Key Concepts/Legitimacy.md",
+      "Global Poltics/Key Concepts/Violence.md",
+      "Global Poltics/Key Concepts/Movements.md"
+    ],
+    "Global Poltics/More Concepts": [
+      "Global Poltics/More Concepts/Institution.md",
+      "Global Poltics/More Concepts/Hegemony.md",
+      "Global Poltics/More Concepts/Lateralism.md",
+      "Global Poltics/More Concepts/Liberal World Order.md"
+    ],
+    "Global Poltics/News of the Week": [
+      "Global Poltics/News of the Week/Zihan – White House Dinner.md",
+      "Global Poltics/News of the Week/Sangat – al Qaeda Siege of Bamako (Mali).md"
+    ],
+    "Global Poltics/Theories": [
+      "Global Poltics/Theories/liberalism.md",
+      "Global Poltics/Theories/Realism.md",
+      "Global Poltics/Theories/Marxism.md",
+      "Global Poltics/Theories/Constructivism.md"
+    ],
+    "Oakridge MUN": [
+      "Oakridge MUN/Resolution.md",
+      "Oakridge MUN/Untitled.md",
+      "Oakridge MUN/stuff.md",
+      "Oakridge MUN/Delegates.md",
+      "Oakridge MUN/Notes.md"
+    ],
+    "Templates": [
+      "Templates/{{datetime}}.md"
+    ],
+    "ToK": [
+      "ToK/Concepts",
+      "ToK/Essay",
+      "ToK/Reflection.md",
+      "ToK/Area of Knowledges.md"
+    ],
+    "ToK/Concepts": [
+      "ToK/Concepts/Certainity.md",
+      "ToK/Concepts/Perspective.md",
+      "ToK/Concepts/Objectivity.md",
+      "ToK/Concepts/Justification.md",
+      "ToK/Concepts/Interpretation.md",
+      "ToK/Concepts/Value.md",
+      "ToK/Concepts/Culture.md",
+      "ToK/Concepts/Evidence.md",
+      "ToK/Concepts/Explanation.md",
+      "ToK/Concepts/Truth.md",
+      "ToK/Concepts/Power.md",
+      "ToK/Concepts/Responsibility.md"
+    ],
+    "ToK/Essay": [
+      "ToK/Essay/Exemplar III.md",
+      "ToK/Essay/Exemplar A.pdf",
+      "ToK/Essay/Note – Structure.md",
+      "ToK/Essay/Plan.md",
+      "ToK/Essay/Essay 1 – Picking Prompt.md",
+      "ToK/Essay/Essay 2 – Planning Prompt.md",
+      "ToK/Essay/Essay 3 – Outline.md",
+      "ToK/Essay/Essay 4 – Draft.md",
+      "ToK/Essay/Essay 5 – 2nd Final.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}

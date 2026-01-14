@@ -1,0 +1,4 @@
+"Our lives are in your hands"
+ 
+ - pleading emotionally
+

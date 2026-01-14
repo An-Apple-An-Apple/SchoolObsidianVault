@@ -1,0 +1,1 @@
+States with great military, economic hard power and substantial structural power in deciding global frameworks of [[Interdependence]].

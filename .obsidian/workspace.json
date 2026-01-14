@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "ffa97adeb8b70337",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fe55340647be595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6754836b8c73cc51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Emailnator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Emailnator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "241b1e8a9f94d989",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3014a25903fd892",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59d2caec08922825",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ef7f0714b16f95f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "inequality",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "83f55bc639469409",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5
+  },
+  "right": {
+    "id": "cc7d8033e2e7ae25",
+    "type": "split",
+    "children": [
+      {
+        "id": "caae1f63c0637d37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3414494243e190dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chemistry/R3/R3.1 Proton transfer reaction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for R3.1 Proton transfer reaction"
+            }
+          },
+          {
+            "id": "538b5177b3498bf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Global Poltics/Theories/Constructivism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Constructivism"
+            }
+          },
+          {
+            "id": "05949657752b2e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "beb4245870b45ec7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Emailnator.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Emailnator"
+            }
+          },
+          {
+            "id": "561db840c2275046",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e20cf66baa2c2cec",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "English/Techniques.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Techniques"
+            }
+          },
+          {
+            "id": "968fe70fc9940f53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "747571212aa65e2b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 320.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "747571212aa65e2b",
+  "lastOpenFiles": [
+    "gitignore.md",
+    "Emailnator.md",
+    "ToK/Essay/Note – Structure.md",
+    "English/Assessment/IO/steps.md",
+    "English/Assessment/IO.md",
+    "English/Assessment/IO/steps conference.md",
+    "School",
+    "English/Assessment/IO/planner.md",
+    "ToK/Essay/Essay 5 – 2nd Final.md",
+    "Global Poltics/GPC 2/Planning 3.md",
+    "Global Poltics/GPC 2/Research/Arctic and Politics/Melting Empires..md",
+    "Global Poltics/GPC 2/Research/Arctic and Politics/Introduction. Indigenous self-governance in the Arctic States.md",
+    "Global Poltics/GPC 2/Research/Arctic and Politics/Contested Sovereignty in a Changing Arctic.md",
+    "Global Poltics/GPC 2/Research/Arctic and Politics/Breaking the Ice. Emerging Legal Issues in Arctic Sovereignty..md",
+    "Global Poltics/GPC 2/Research/Rising sea levels/Climate Change-induced Sea-Level Rise Direct Threat to Millions around World, Secretary-General Tells Security Council.md",
+    "Global Poltics/GPC 2/Research/Rising sea levels/You're making this island disappear.md",
+    "Global Poltics/GPC 2/Research/Rising sea levels/Navigating the Rising Tide - Transformational Adaptation for Resilient Atoll Nations.md",
+    "Global Poltics/GPC 2/Research/Rising sea levels/The First Digital Nation.md",
+    "Global Poltics/Key Concepts/Sovereignty.md",
+    "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/There Will Come Soft Rains.pdf",
+    "English/Portfolio/Ray Bradbury BOW/2. The Murderer/The Murderer.pdf",
+    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/A Sound of Thunder.pdf",
+    "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/Practice — Questions.md",
+    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Practice — Questions.md",
+    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Notes.md",
+    "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/The Pedestrian.pdf",
+    "English/Portfolio/Ray Bradbury BOW/4. Small Assassin/The-Small-Assassin.pdf",
+    "English/Assessment/IO/structure.md",
+    "English/Assessment/IO/exemplar.md",
+    "Global Poltics/Development/11.26/Adam Smith - Jelena, Susan, Carmona.md",
+    "Global Poltics/Development/11.26/Hernando de Soto.md",
+    "Global Poltics/Development/11.26/Susan George – Sofia, Shayla, Hibah.md",
+    "Global Poltics/GPC 2/Research/Others",
+    "Global Poltics/GPC 2/Research/Rising sea levels",
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game/The October Game.pdf",
+    "English/Portfolio/Ray Bradbury BOW/1. Marionette Inc./Marionette Inc..pdf",
+    "Chemistry/R3/W Base with W Acid Titration.png",
+    "Chemistry/R3/W Acid with S Base Titration.jpg",
+    "Chemistry/R2/Energy Diagram with Catalyst.png",
+    "Chemistry/R2/MaxBolt Diagram shifting Temp.png",
+    "Chemistry/R3/W Base with S Acid Titration.png",
+    "Chemistry/R1/Gibbs Energy Graph.png",
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/characterization.png",
+    "Chemistry/R2/K Values.png",
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/simile and metaphor.png",
+    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/foreshadowing.png"
+  ]
+}

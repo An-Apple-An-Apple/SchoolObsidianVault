@@ -1,0 +1,1 @@
+1. How does Bradbury's characterization of the Lieutenant, Simmons, and Pickard contribute to the build up of tension.

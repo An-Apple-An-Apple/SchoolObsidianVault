@@ -1,0 +1,5 @@
+- United Nation
+- European Union
+- ASEAN
+- WTO
+- etc.
