@@ -7,8 +7,9 @@ Look through exemplars.
 [[2026-01-08]]
 Do a quick review the BOWs. 
 Pick the specific BOWs. 
+Rewatch/read extract. Formulate global issue statements.
 
-Then, work through IO workbook. 
 
+[[2026-01-15]]
+Work through IO workbook. Find exact extract. Annoate (find techniques).
 
-Rewatch/read extract. Formulate global issue statements. Pick out key elements.

@@ -39,10 +39,14 @@
             "id": "97372eed57a26f8f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/Assessment/IO/exemplar.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "exemplar"
             }
           },
           {
@@ -195,8 +199,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -215,13 +219,13 @@
   },
   "active": "97372eed57a26f8f",
   "lastOpenFiles": [
+    "English/Assessment/IO/IO outline.md",
     "English/Assessment/IO/parts_of_the_io.md",
     "English/Assessment/IO/planner.md",
     "Global Poltics/GPC 2/Research/Breaking the Ice. Emerging Legal Issues in Arctic Sovereignty.md",
     "Global Poltics/GPC 2/Research/Contested Sovereignty in a Changing Arctic.md",
     "Global Poltics/GPC 2/Research/Google Scholar Query 1.md",
     "English/Techniques.md",
-    "English/Assessment/IO/Untitled.md",
     "English/Vocabulary.md",
     "Chemistry/R3/R3.1 Proton transfer reaction.md",
     "English/Portfolio/Ray Bradbury BOW/10. Skeleton/Practice - Questions.md",

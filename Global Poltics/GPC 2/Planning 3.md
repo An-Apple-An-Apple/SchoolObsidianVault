@@ -19,10 +19,10 @@
 - External sovereignty is thus the ability of a state to be completely autonomous within a society of global actors with its territory and political independence inviolable. Internal sovereignty then is the supreme authority within a state and can be argued to be a monopoly of hard power.
 - Within a state system, however, the legal recognition of a state sovereignty and actual control are two distinct concepts.
 - While rising sea levels, by all legal means, maintains the position of state as the supreme authority of power, it undermines its ability to actually rule.
-- Long before PIS are completely submerged, their lands are uninhabitable. At this point states can no longer provide the basic necessities to support life.
+- ~~Long before PIS are completely submerged, their lands are uninhabitable. At this point states can no longer provide the basic necessities to support life.~~
 - Rising sea levels erodes infrastructure, causes soil salinization thus threatening arable land, drowns population. These effects ultimately forces PIS to loss the power to protect their citizens.
-- On the global stage while PIS may maintain the ability to to conduct international affairs, keeping their external sovereignty, they loss all means of controlling what goes on inside.
-- Although by law, you physically own now shrunken but still existent the land, (fishing, constructing, legal control), states can no longer physically control that land. PIS keep their legal internal sovereignty to be the sole authority within their state, reflected in their monopoly to pass law and collect tax, but they lose the physical capacity to enact that. 
+- ~~On the global stage while PIS may maintain the ability to to conduct international affairs, keeping their external sovereignty, they loss all means of controlling what goes on inside.~~
+- Although by law, you physically own now shrunken but still existent the land, (fishing, constructing, legal control), states can no longer physically control that land. ~~PIS keep their legal internal sovereignty to be the sole authority within their state, reflected in their monopoly to pass law and collect tax, but they lose the physical capacity to enact that.~~ 
 - Even though the Pacific Island States are not the main producers of CO_2, the complex interdependence of the global climate forces repercussion on on them.
 - Billard Bal
 **Argument 2**: Economic asymmetry. Adaptation plans of the Pacific Island States to ameliorate impact of rising sea levels is significantly greater than their economic capacity. Conditional loans from IGOs is the only viable solution which limits the external sovereignty of Pacific Island States.

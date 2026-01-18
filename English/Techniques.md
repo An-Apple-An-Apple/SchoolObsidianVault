@@ -61,7 +61,7 @@
 ---
 **Other**
 - Anachronism
-	- something that is known to be in the future in the past
+	- something that is known to be in the future now in the past
 - Aposiopesis
 	- rhetorical device
 	- deliberately breaks off and leaves a statement unfinished

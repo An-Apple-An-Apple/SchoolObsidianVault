@@ -4,24 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "1fe55340647be595",
+        "id": "fef56a98c26494f8",
         "type": "tabs",
         "children": [
           {
-            "id": "6754836b8c73cc51",
+            "id": "2577aba812ea3b02",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/The Pedestrian.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "The Pedestrian"
+            }
+          },
+          {
+            "id": "570762cd5944b4a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Emailnator.md",
+                "file": "English/Assessment/IO/Planner 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Emailnator"
+              "title": "Planner 2"
+            }
+          },
+          {
+            "id": "01eb49abc743ed6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Techniques.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Techniques"
+            }
+          },
+          {
+            "id": "492a5502b8093700",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Assessment/IO/IO outline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IO outline"
+            }
+          },
+          {
+            "id": "003aade4f27d607d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Assessment/IO/Planner 1 Conference.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planner 1 Conference"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "cc7d8033e2e7ae25",
@@ -142,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Emailnator.md",
+                "file": "English/Assessment/IO/Planner 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Emailnator"
+              "title": "Outline of Planner 2"
             }
           },
           {
@@ -196,13 +252,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "e26ee64de3237984",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
         "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,18 +282,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "747571212aa65e2b",
+  "active": "570762cd5944b4a5",
   "lastOpenFiles": [
-    "gitignore.md",
-    "Emailnator.md",
-    "ToK/Essay/Note – Structure.md",
-    "English/Assessment/IO/steps.md",
-    "English/Assessment/IO.md",
-    "English/Assessment/IO/steps conference.md",
-    "School",
-    "English/Assessment/IO/planner.md",
-    "ToK/Essay/Essay 5 – 2nd Final.md",
+    "English/Techniques.md",
+    "English/Assessment/IO/Isla on Social Media.png",
+    "English/Assessment/IO/Alex Daunting Side Gaze.png",
+    "English/Assessment/IO/Planner 2.md",
+    "English/Assessment/IO/exemplar.md",
+    "English/Assessment/IO/Untitled.md",
+    "English/Assessment/IO/Twitter Pledge.png",
+    "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/The Pedestrian.pdf",
+    "English/Assessment/IO/Tim Apprehensive Side Gaze.png",
+    "English/Assessment/IO/Planner 1 Conference.md",
+    "English/Assessment/IO/IO outline.md",
+    "English/Portfolio/Ray Bradbury BOW/2. The Murderer/The Murderer.pdf",
     "Global Poltics/GPC 2/Planning 3.md",
+    "English/Assessment/IO/Planner 1.md",
+    "English/Assessment/IO/structure.md",
+    "English/Assessment/IO/planner.md",
+    "English/Assessment/Notes – Full IO.md",
+    "Chemistry/IA/Procedure.md",
+    "Emailnator.md",
+    "gitignore.md",
+    "ToK/Essay/Note – Structure.md",
+    "English/Assessment/IO.md",
+    "School",
+    "ToK/Essay/Essay 5 – 2nd Final.md",
     "Global Poltics/GPC 2/Research/Arctic and Politics/Melting Empires..md",
     "Global Poltics/GPC 2/Research/Arctic and Politics/Introduction. Indigenous self-governance in the Arctic States.md",
     "Global Poltics/GPC 2/Research/Arctic and Politics/Contested Sovereignty in a Changing Arctic.md",
@@ -236,20 +316,9 @@
     "Global Poltics/GPC 2/Research/Rising sea levels/You're making this island disappear.md",
     "Global Poltics/GPC 2/Research/Rising sea levels/Navigating the Rising Tide - Transformational Adaptation for Resilient Atoll Nations.md",
     "Global Poltics/GPC 2/Research/Rising sea levels/The First Digital Nation.md",
-    "Global Poltics/Key Concepts/Sovereignty.md",
     "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/There Will Come Soft Rains.pdf",
-    "English/Portfolio/Ray Bradbury BOW/2. The Murderer/The Murderer.pdf",
     "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/A Sound of Thunder.pdf",
-    "English/Portfolio/Ray Bradbury BOW/8. There Will Come Soft Rain/Practice — Questions.md",
-    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Practice — Questions.md",
-    "English/Portfolio/Ray Bradbury BOW/6. A Sound of Thunder/Notes.md",
-    "English/Portfolio/Ray Bradbury BOW/5. The Pedestrian/The Pedestrian.pdf",
     "English/Portfolio/Ray Bradbury BOW/4. Small Assassin/The-Small-Assassin.pdf",
-    "English/Assessment/IO/structure.md",
-    "English/Assessment/IO/exemplar.md",
-    "Global Poltics/Development/11.26/Adam Smith - Jelena, Susan, Carmona.md",
-    "Global Poltics/Development/11.26/Hernando de Soto.md",
-    "Global Poltics/Development/11.26/Susan George – Sofia, Shayla, Hibah.md",
     "Global Poltics/GPC 2/Research/Others",
     "Global Poltics/GPC 2/Research/Rising sea levels",
     "English/Portfolio/Ray Bradbury BOW/3. The October Game/The October Game.pdf",
@@ -259,10 +328,6 @@
     "Chemistry/R2/Energy Diagram with Catalyst.png",
     "Chemistry/R2/MaxBolt Diagram shifting Temp.png",
     "Chemistry/R3/W Base with S Acid Titration.png",
-    "Chemistry/R1/Gibbs Energy Graph.png",
-    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/characterization.png",
-    "Chemistry/R2/K Values.png",
-    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/simile and metaphor.png",
-    "English/Portfolio/Ray Bradbury BOW/3. The October Game/Images/foreshadowing.png"
+    "Chemistry/R1/Gibbs Energy Graph.png"
   ]
 }
